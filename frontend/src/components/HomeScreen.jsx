@@ -65,7 +65,8 @@ const VideoCarousel = ({ title, subtitle, videos }) => {
 
 const modelImageMap = import.meta.glob('../../../tmp/models/*.{webp,png,jpg,jpeg}', {
   eager: true,
-  as: 'url',
+  query: '?url',
+  import: 'default',
 });
 const modelImages = Object.entries(modelImageMap)
   .sort(([a], [b]) => a.localeCompare(b, undefined, { numeric: true }))
