@@ -1,0 +1,26 @@
+Starting Vite dev server at vie 13 feb 2026 05:40:14 CET
+
+> kcd-frontend@0.0.1 dev
+> vite --host 0.0.0.0 --port 3000
+
+Port 3000 is in use, trying another one...
+
+  VITE v5.4.21  ready in 157 ms
+
+  ➜  Local:   http://localhost:3001/
+  ➜  Network: http://192.168.1.32:3001/
+  ➜  Network: http://172.18.0.1:3001/
+  ➜  Network: http://172.19.0.1:3001/
+  ➜  Network: http://172.20.0.1:3001/
+The glob option "as" has been deprecated in favour of "query". Please update `as: 'url'` to `query: '?url', import: 'default'`.
+05:42:13 [vite] hmr update /src/components/HomeScreen.jsx
+05:42:13 [vite] hmr update /src/components/SplashScreen.jsx
+The glob option "as" has been deprecated in favour of "query". Please update `as: 'url'` to `query: '?url', import: 'default'`.
+05:43:01 [vite] hmr update /src/components/HomeScreen.jsx
+The glob option "as" has been deprecated in favour of "query". Please update `as: 'url'` to `query: '?url', import: 'default'`.
+05:43:47 [vite] hmr update /src/components/HomeScreen.jsx
+The glob option "as" has been deprecated in favour of "query". Please update `as: 'url'` to `query: '?url', import: 'default'`.
+05:45:14 [vite] hmr update /src/components/HomeScreen.jsx
+The glob option "as" has been deprecated in favour of "query". Please update `as: 'url'` to `query: '?url', import: 'default'`.
+05:53:36 [vite] hmr update /src/components/LoginPage.jsx
+05:55:28 [vite] hmr update /src/components/LoginPage.css
